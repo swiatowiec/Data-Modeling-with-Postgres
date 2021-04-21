@@ -1,6 +1,6 @@
 # Summary
 
-Sparkify - a music streaming startup wants to analyze the collected data. The data resides on a directory of JSON logs on user activity so they don't have an easy way to query data. In order to enable Sparkify to create queries and to facilitate data analysis, a Relational Database and ETL papieline ware created. 
+Sparkify - a music streaming startup wants to analyze the collected data. The data resides on a directory of JSON logs on user activity so they don't have an easy way to query data. In order to enable Sparkify to create queries and to facilitate data analysis, a Relational Database and ETL pipeline ware created. 
 
 ## How to run the scripts
 
